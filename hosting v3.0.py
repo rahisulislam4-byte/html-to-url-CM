@@ -187,7 +187,6 @@ def print_main_banner():
     print(r"""
     ╔════════════════════════════════════════════════════════════════╗
     ║                    CODE MASTER v3.0                            ║
-    ║                       ETeam71                                  ║
     ║            Professional HTML Hosting System                    ║
     ║         Persistent Cloud Hosting with Custom Domains           ║
     ╚════════════════════════════════════════════════════════════════╝
